@@ -1,0 +1,94 @@
+body 
+{
+    direction:ltr;
+	background-image:url("../images/BacKgrounds color.png");
+	
+
+}
+
+
+#container{
+font-size:10pt;
+width:600px;
+margin:auto 0;
+text-align:center;
+background-color:turquoise;
+height:300px;
+margin:0px 100px;
+
+}
+
+h1{
+text-shadow:2px 2px 4px #3F38FF;
+font-size:20pt;
+color:black;
+text-decoration:underline;
+text-align:center;
+margin:20px 5px;
+}
+
+h2{
+font-size:15pt;
+color:#2B76D9;
+text-align:center;
+margin:20px 5px;
+}
+
+h3{
+font-size:15pt;
+color:#25D9C7;
+text-align:center;
+margin:20px 5px;
+}
+
+h4{
+font-size:15pt;
+color:darkblue;
+text-align:center;
+margin:20px 5px;
+}
+
+
+.t{
+font-size:10pt;
+text-align:center;
+margin:20px 5px;
+
+}
+
+.contct{
+width:10px;
+height:10px;
+text-align:center;
+margin:20px 5px;
+}
+
+
+
+
+ul{
+list-style:none;
+}
+
+
+#nav1 ul li{
+display:inline-block;
+width: 110px;
+}
+
+#nav1 ul li a:active{
+background-color:pink;
+}
+
+#nav1 ul li a{
+background-color:purple;
+color:white;
+border-style:solid;
+display:block;
+width: 110px;
+height: 20px;
+text-decoration: none;
+text-align: center;
+
+
+}
