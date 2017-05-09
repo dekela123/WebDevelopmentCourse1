@@ -1,0 +1,196 @@
+body 
+{
+    direction:rtl;
+    background-image: url(../images/colorbackground.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
+#container
+{
+    width:960px;
+    margin:0 auto;
+    background-color:rgba(128, 128, 128, 0.81);
+    color:white;
+    font-family: fantasy;
+    border-radius: 15px; 
+    
+}
+
+#myheader{
+    padding-top: 
+}
+
+ul{
+    list-style: none;
+    
+}
+
+nav ul li
+{
+display:inline-block;
+float:right;
+
+
+}
+
+#section{
+    clear: both;
+}
+
+nav{
+    
+    margin-right:160px;
+    
+    
+    
+}
+
+
+nav ul li a{
+    display: block;
+    background-color:azure;
+    color:darkblue;
+    width: 150px;
+    height: 35px;
+    padding-top: 10px;
+    text-decoration: none;
+    text-align: center;
+    border-style: solid;
+    border-radius: 12px;
+    border-color: blue;
+    font-family: fantasy;
+    font-size: 13pt;
+    
+}
+
+nav ul li a:hover{
+ background-color: gainsboro;
+    color: black;
+    
+}
+
+nav ul li a:active{
+    background-color: skyblue;
+    
+}
+
+#cotert{
+    color:azure;
+    font-family: fantasy;
+    font-size: 30pt;
+    text-align: center;
+    padding-top: 30px;
+    margin-bottom: 20px;
+}
+
+#temona1 img{
+    width: 500px;
+    height: 300px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 100px;
+    
+    
+}
+
+#cotert2{
+    color: azure;
+    font-size: 30pt;
+    text-align: center;
+    font-family: fantasy;
+    clear: both;
+    margin-bottom: 15px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+
+#temona2 img{
+    width:400px;
+    height: 600px;
+    padding-right: 30px;
+    
+    
+}
+
+#cotert3{
+    clear: both;
+    color: azure;
+    margin-top: 40px;
+    font-size: 30pt;
+    font-family: fantasy;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+#cotert4{
+    clear: both;
+    font-size: 20pt;
+    font-family: fantasy;
+    text-align: right;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    padding-top: 30px;
+    padding-right: 20px;
+}
+
+#dekel{
+    width: 350px;
+    margin-right: 500px;
+}
+
+#pa{
+    margin-right: 30px;
+    padding-left: 300px;
+}
+
+#paa{
+    padding-left: 130px;
+    padding-right: 100px;
+}
+
+#bar img{
+    width: 400px;
+    height:500px;
+    margin-bottom: 30px;
+    padding-right: 30px;
+    
+}
+
+#cotert5{
+   clear: both;
+    font-size: 30pt;
+    font-family: fantasy;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    padding-top: 30px;
+    padding-right: 20px;    
+}
+
+#paaa{
+    margin-bottom: 30px;
+    padding-left: 300px;
+    padding-right: 30px;
+}
+
+#video{
+    padding-right: 100px; 
+}
+
+#odio{
+    padding-right: 30px;
+    
+}
+
+#p4{
+    margin-bottom: 30px;
+    padding-left: 300px;
+    padding-right: 30px;
+    
+}
+
+
+
